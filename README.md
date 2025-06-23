@@ -36,7 +36,7 @@ A simple and interactive **Pathfinding Algorithm Visualizer** built using **Pyth
      pip3 install pygame_menu (Mac/Linux)
      pip install pygame_menu (Windows)
 
-4. **Run the Project: **
+4. **Run the Project:**
 
      python3 main.py
 
