@@ -18,6 +18,8 @@ A simple and interactive **Pathfinding Algorithm Visualizer** built using **Pyth
 
 
 ## Demo Video
+
+[Download Demo Video](/final recording.mp4)
 [![Watch the video](https://img.youtube.com/vi/h-Y4taHBi_c/0.jpg)](https://www.youtube.com/watch?v=h-Y4taHBi_c)
 
 
