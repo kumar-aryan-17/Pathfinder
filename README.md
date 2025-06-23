@@ -25,3 +25,26 @@ A simple and interactive **Pathfinding Algorithm Visualizer** built using **Pyth
 
 1. **Clone the repository:**
 
+    git clone https://github.com/kumar-aryan-17/Pathfinder.git
+
+2. **Navigate to the project directory:**
+
+    cd Pathfinder
+
+3. **Install Project dependencies:**
+
+     pip3 install pygame_menu (Mac/Linux)
+     pip install pygame_menu (Windows)
+
+4. **Run the Project: **
+
+     python3 main.py
+
+
+
+
+   
+
+
+
+
