@@ -12,7 +12,7 @@ A simple and interactive **Pathfinding Algorithm Visualizer** built using **Pyth
   - Breadth First Search (BFS)
 
 - Visual differentiation of different searching algorithms
-- Reset button ('R') to return to the home screen
+- Reset button ('R') to return to the home screen and return to menu with ('M') button
 - Real-time grid updates
 - Intuitive and simple user interface
 
@@ -20,7 +20,17 @@ A simple and interactive **Pathfinding Algorithm Visualizer** built using **Pyth
 ## Demo Video
 ![Demo](demo_gif.gif)
 
-Watch the full video [here](https://www.youtube.com/watch?v=h-Y4taHBi_c).
+### Watch the full video [here](https://www.youtube.com/watch?v=h-Y4taHBi_c).
+
+## How it works
+
+- Select the algorithm which you want to run
+- Click on play
+- When you once click on the board, it will create a start node. The second click will create the end node and rest other clicks will create barriers
+- Left clicking any node will delete it and the next right click will allow you recreate the node deleted
+- Press on SPACE BAR to run the search
+- Press 'r' to reset the board
+- Press 'm' to return to menu
 
 
 ## Installation
